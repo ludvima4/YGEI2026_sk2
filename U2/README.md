@@ -5,7 +5,7 @@
 
 
 
-## Hlavní skripty
+## Popis souborů 
 
 A)
 search.m hlavní script automatického rozpoznávání znaku v Mullerově mapě
