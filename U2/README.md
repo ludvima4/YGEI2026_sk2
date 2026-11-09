@@ -3,7 +3,6 @@
 
 # Úloha 2 – Automatizované rozpoznávání objektů v mapách
 
-Automatické rozpoznávání referenčního znaku v Mullerově mapě a segmentace Topografické mapy.
 
 
 ## Hlavní skripty
