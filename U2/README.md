@@ -1,4 +1,4 @@
-# U1 Liashenko, Ludvík 
+# U2 Liashenko, Ludvík 
 
 
 # Úloha 2 – Automatizované rozpoznávání objektů v mapách
